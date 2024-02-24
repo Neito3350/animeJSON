@@ -1,4 +1,46 @@
 {
+  "Наруто 1 сезон": {
+    "anime_url": "https://jut.su/naruuto/season-1/",
+    "anime_image_url": "https://gen.jut.su/templates/school/images/anime_naruto_season-1.jpg",
+    "video_content_info": {
+      "episodes": "220"
+    }
+  },
+  "Наруто 2 сезон": {
+    "anime_url": "https://jut.su/naruuto/season-2/",
+    "anime_image_url": "https://gen.jut.su/templates/school/images/anime_naruto_season-2.jpg",
+    "video_content_info": {
+      "episodes": "500"
+    }
+  },
+  "Наруто 3 сезон": {
+    "anime_url": "https://jut.su/naruuto/season-3/",
+    "anime_image_url": "https://gen.jut.su/templates/school/images/anime_naruto_season-3.jpg",
+    "video_content_info": {
+      "episodes": "293"
+    }
+  },
+  "Наруто Фильмы": {
+    "anime_url": "https://jut.su/naruuto/film/",
+    "anime_image_url": "https://gen.jut.su/templates/school/images/anime_naruto_film.jpg",
+    "video_content_info": {
+      "episodes": "11"
+    }
+  },
+  "Наруто OVA": {
+    "anime_url": "https://jut.su/naruuto/ova/",
+    "anime_image_url": "https://gen.jut.su/templates/school/images/anime_naruto_ova.jpg",
+    "video_content_info": {
+      "episodes": "35"
+    }
+  },
+  "Наруто Чиби": {
+    "anime_url": "https://jut.su/naruuto/chibi/",
+    "anime_image_url": "https://gen.jut.su/templates/school/images/anime_naruto_chibi.jpg",
+    "video_content_info": {
+      "episodes": "51"
+    }
+  },
   "Атака титанов": {
     "anime_url": "https://jut.su/shingekii-no-kyojin/",
     "anime_image_url": "https://gen.jut.su/uploads/animethumbs/anime_shingeki-no-kyojin.jpg",
